@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>目录</title>
-      <link href="posts/mk001.html/"/>
-      <url>posts/mk001.html/</url>
+      <title>Red Rocket</title>
+      <link href="posts/mk002.html/"/>
+      <url>posts/mk002.html/</url>
       
-        <content type="html"><![CDATA[<h4 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h4><hr>]]></content>
+        <content type="html"><![CDATA[<p>下载链接：</p><hr>]]></content>
       
       
       
@@ -17,11 +17,24 @@
     
     
     <entry>
-      <title>test</title>
-      <link href="posts/mk002.html/"/>
-      <url>posts/mk002.html/</url>
+      <title>Little fox</title>
+      <link href="posts/mk003.html/"/>
+      <url>posts/mk003.html/</url>
       
-        <content type="html"><![CDATA[<style>    .dplayer {        max-width: 48%;        display: inline-block;    }</style><h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><script src="https://cdn.jsdelivr.net/npm/dplayer@1/dist/DPlayer.min.js"></script><div id="mmedia-xWiebleNRrMfgoVR"></div><script> var xWiebleNRrMfgoVR_options = JSON.parse('{\"video\":{\"url\":\"https://cdn.littlefox.com/contents_5/hls/1080/a37a11922a/160127230594bb077f18daa6620efa5cf6e6f178d2/stream.m3u8\"}}'); xWiebleNRrMfgoVR_options.container = document.getElementById("mmedia-xWiebleNRrMfgoVR"); const dp_xWiebleNRrMfgoVR = new DPlayer(xWiebleNRrMfgoVR_options); </script><hr>]]></content>
+        <content type="html"><![CDATA[<p>下载链接：</p><hr>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>目录</title>
+      <link href="posts/mk001.html/"/>
+      <url>posts/mk001.html/</url>
+      
+        <content type="html"><![CDATA[<h4 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h4><ol><li>Red Rocket</li><li>Little fox</li></ol><hr>]]></content>
       
       
       
